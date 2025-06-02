@@ -1,16 +1,60 @@
-# test1
+# 📱 친구야 뭐하니! - Flutter 기반 소셜 일정 관리 앱
 
-A new Flutter project.
+이 앱은 친구들과 **위치를 실시간으로 공유**하고,  
+**영상통화를 하며 소통**할 수 있는 **Flutter 기반 소셜 일정 관리 앱**입니다.
 
-## Getting Started
+<br>
 
-This project is a starting point for a Flutter application.
+## ✨ 주요 기능
 
-A few resources to get you started if this is your first Flutter project:
+- 🗺 실시간 친구 위치 공유 (Google Maps 연동)
+- 👫 친구 추가 기능
+- 📞 영상 통화 (Agora SDK 사용)
+- 📆 개인 일정 관리 (캘린더 + 메모 + 일정 등록 및 수정)
+- 🔐 구글/카카오 소셜 로그인 (Firebase Authentication 연동)
+- 🌤 실시간 날씨 정보 표시 (OpenWeatherMap API)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 개발 환경
+
+- Flutter 3.24.4 (Stable) / Dart 3.5.4
+- Android Studio 2024.1
+- Firebase Authentication & Firestore
+- Agora Video SDK
+- Kakao Flutter SDK
+- Google Maps API
+- OpenWeatherMap API
+
+<br>
+
+## 🗓 개발 기간
+
+**2024.11 ~ 2024.12 (약 2개월)**
+
+<br>
+
+## 🎥 시연 영상
+
+[![시연 영상 보기](https://img.youtube.com/vi/l79SWWXp3xg/0.jpg)](https://youtu.be/l79SWWXp3xg)
+
+> 로그인, 위치 공유, 영상통화, 일정관리 등 전체 흐름을 시연한 영상입니다.
+
+<br>
+
+## 📁 GitHub 소스코드
+
+🔗 [프로젝트 바로가기](https://github.com/alakdjs/flutter-location-calendar)
+
+<br>
+
+## ⚠️ 참고사항
+
+- 본 영상과 소스코드는 **포트폴리오 목적**으로 제작되었습니다.
+- 로그인 기능은 **Firebase SHA1 인증서 등록 후에만 작동**합니다. (현재는 비활성화 상태)
+
+<br>
+
+## 👨‍💻 개발자
+
+**alakdjs 외 2명**
