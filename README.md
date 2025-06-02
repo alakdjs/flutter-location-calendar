@@ -55,6 +55,13 @@
 
 <br>
 
-## 👨‍💻 개발자
+## 👥 공동 개발자
 
-**alakdjs 외 2명**
+- [@alakdjs](https://github.com/alakdjs)
+  > Flutter 앱 설계(일정 관리 기반), Firebase 연동, 소셜 로그인 연동(구글, 카카오), 일정 수정하기 기능 추가, 구글 지도 마커 정보 표시
+
+- [@202021042khj](https://github.com/202021042khj)
+  > Flutter 앱 설계(일정 관리 기반), home_screen 화면 구성, 상대방 위치 공유(Front), 날씨 기능, 로그인 화면 UI, 지도 화면 UI
+
+- [@Jaetang](https://github.com/Jaetang)
+  > Flutter 앱 설계(일정 관리 기반), 영상 통화 기능, 친구 추가 기능(UI 포함), 상대방 위치 공유(Back)
